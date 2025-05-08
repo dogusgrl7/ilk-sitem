@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Benim İlk Sitem</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: Arial; text-align: center; margin-top: 100px; }
+    h1 { color: #4CAF50; }
+  </style>
+</head>
+<body>
+  <h1>Merhaba, bu benim ilk sitem!</h1>
+  <p>GitHub Pages ile yapıldı.</p>
+</body>
+</html>
